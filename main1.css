@@ -1,0 +1,48 @@
+/***************************** LOCATİON *******************/
+.yaziorta {
+    text-align: center;
+}
+
+.yazisol {
+    margin-right: 20px;
+}
+
+.yazisag {
+    margin-left: 20px;
+}
+
+/***************************** TEXT-COLOR *******************/
+
+.text-red {
+    color: red;
+}
+
+
+.text-purple {
+    color: purple;
+}
+
+.text-brown {
+    color: brown;
+}
+
+/***************************** TEXT - FONT *******************/
+
+.fs-xxlarge {
+    font-size: xx-large;
+}
+
+.fs-xlarge {
+    font-size: x-large;
+}
+
+.fs-large {
+    font-size: large;
+}
+
+
+/***************************** LIST - POSİTİON *****************/
+
+.listorta {
+    list-style-position: inside
+}
